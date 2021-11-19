@@ -1,0 +1,56 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Mr. Wong laptop needs to install anti-virus",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-11-16T05:26:56.578Z"
+    },
+    {
+      "id": 2,
+      "message": "New component to be install into John's laptop",
+      "attention": true,
+      "tech": "Kenny Sim",
+      "date": "2021-11-16T05:05:39.025Z"
+    },
+    {
+      "id": 3,
+      "message": "Emily's laptop needs to be reformat",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-11-16T05:29:56.119Z"
+    },
+    {
+      "message": "Leo's laptop needs to install Balsamiq",
+      "attention": false,
+      "tech": "Kenny Sim",
+      "date": "2021-11-16T05:29:43.114Z",
+      "id": 4
+    },
+    {
+      "message": "Install WhatsApp",
+      "attention": false,
+      "tech": "Ethan Long Meng Fei",
+      "date": "2021-11-18T15:10:15.357Z",
+      "id": 5
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Leo Hee",
+      "lastName": "Fook Yew"
+    },
+    {
+      "id": 2,
+      "firstName": "Ethan Long",
+      "lastName": "Meng Fei"
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Wong Shiau Li",
+      "id": 3
+    }
+  ]
+}
