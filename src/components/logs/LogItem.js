@@ -3,7 +3,6 @@ import Moment from "react-moment"
 import {connect} from "react-redux"
 import {deleteLog,setCurrent} from "../../actions/logActions"
 import PropTypes from "prop-types"
-
 import M from "materialize-css/dist/js/materialize.min.js"
 
 const LogItem=({log,deleteLog,setCurrent})=>{
